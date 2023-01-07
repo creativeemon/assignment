@@ -1,0 +1,52 @@
+/* ...*.... */
+*{
+    margin: 0;
+}
+
+/* banner style */
+.banner{
+   
+    
+}
+.banner-0{
+    margin: 0 200px;
+    text-align:right;
+
+}
+/* 2div-style */
+.div-style{
+    margin: 130px;
+}
+/* img {
+    padding: 0px;
+    width: 1600px;
+    height: 809px;
+} */
+.h6{
+    width: 1600px;
+
+}
+/* icon style */
+.icon style{
+
+}
+/* div-style */
+
+.div-style{
+   display: flex;
+
+}
+/* my plen */
+.my-plen{
+    text-align: center;
+  
+}
+.commit{
+    display: flex;
+  margin-left: 500px;
+    gap: 98px;
+}
+/* last-section */
+.last-section{
+    display: flex;
+}
