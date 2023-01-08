@@ -57,3 +57,44 @@ font-size: 85px;font-weight: bold;
 .btn-here{
    color: red;
 }
+/* srvice-container */
+.srvice-container{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../asset/image/footer-bg.png),linear-gradient(rgba(0,0,0,1),rgb(0,0,0,0.9));
+    background-blend-mode: overlay;
+    color: white;
+    padding: 20px;
+}
+.service-btn{
+    color: gray;
+    border-radius: 25px;
+}
+.service-title{
+    font-size: 40px;
+    font-weight: bold;
+}
+.service-description{
+    font-size: 20px;
+    width: 50%;
+    padding: 10px;
+
+}
+.athor-details{
+    display: flex;
+    align-items: center;
+}
+.aathor-img{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-right: 1px solid red;
+}
+.athor-img-style{
+    width: 100px;
+    height: 100px;
+     border-radius: 50px;
+}
+.more-detail{
+    padding: 20px;
+}
